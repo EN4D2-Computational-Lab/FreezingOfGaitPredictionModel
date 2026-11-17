@@ -5,6 +5,7 @@ This repository contains a Python script (`predict_fog.py`) that predicts whethe
 
 ## Published Manuscript
 Machine Learning–Driven Approach to Identify Freezing of Gait in Individuals with Parkinson Disease Using Conventional Structural MRI and Clinical Measures
+
 Gaurav N. Rathi, Alan Gardner, Jason K. Longhurst, Zoltan Mari and Virendra R. Mishra
 American Journal of Neuroradiology July 2026, 47 (7) 1887-1895; DOI: https://doi.org/10.3174/ajnr.A9171
 
