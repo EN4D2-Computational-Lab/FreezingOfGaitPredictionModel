@@ -3,6 +3,11 @@
 ## Overview
 This repository contains a Python script (`predict_fog.py`) that predicts whether a patient has Freezing of Gait (FOG) using a pre-trained Support Vector Machine (SVM) model. The model utilizes brain area feature values stored in an Excel file (`area.xlsx`) and scales them using a saved scaler (`scale_data.pkl`).
 
+## Published Manuscript
+Machine Learning–Driven Approach to Identify Freezing of Gait in Individuals with Parkinson Disease Using Conventional Structural MRI and Clinical Measures
+Gaurav N. Rathi, Alan Gardner, Jason K. Longhurst, Zoltan Mari and Virendra R. Mishra
+American Journal of Neuroradiology July 2026, 47 (7) 1887-1895; DOI: https://doi.org/10.3174/ajnr.A9171
+
 ## Prerequisites
 Ensure you have the following installed on your system:
 
